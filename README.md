@@ -1,4 +1,4 @@
-# DDoS_BlackShark
+# DDoS_socks
 attack ddos with sockes
 
 # install:
