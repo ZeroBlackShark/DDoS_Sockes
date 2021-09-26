@@ -6,12 +6,12 @@ sudo apt-get install python3 python3-pip git
 
 pip3 install requests colorama pysocks
 
-git clone https://github.com/ZeroBlackShark/DDoS_Socks
+git clone https://github.com/ZeroBlackShark/DDoS_Sockes.git
 
 # Use:
-cd DDoS_BlackShark
+cd DDoS_Sockes
 
-python3 DDoS_socks.py
+python3 DDoS_Sockes.py
 
 # Coded:
 c0d3d by Zero_BlackShark
