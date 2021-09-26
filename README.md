@@ -3,9 +3,9 @@ attack ddos with sockes
 
 # install:
 sudo apt-get install python3 python3-pip git
------
+
 pip3 install requests colorama pysocks
------
+
 git clone https://github.com/ZeroBlackShark/DDoS_Socks
 
 # Use:
