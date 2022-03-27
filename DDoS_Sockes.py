@@ -11,13 +11,18 @@ from colorama import Fore
 
 nums = 0
 os.system("clear")
-print(Fore.CYAN+"\n             '||` '||`                                      ")
-print(Fore.CYAN+"              ||   ||                                       ")
-print(Fore.CYAN+".|'', .|''|,  ||   ||   '''|.  '||''|, (''''  '''|.  '||''| ")
-print(Fore.CYAN+"||    ||  ||  ||   ||  .|''||   ||  ||  `'') .|''||   ||    ")
-print(Fore.BLUE+"`|..' `|..|' .||. .||. `|..||.  ||..|' `...' `|..||. .||.   ")
-print(Fore.BLUE+"                                ||                          ")
-print(Fore.BLUE+"                               .||         "+Fore.RESET)
+print(Fore.CYAN+"\n                                                                               
+          / / ||   / /       /|    / / //   / / //   / /   //   / /  //   ) ) 
+         / /  ||  / /       //|   / / //   / / //__ / /   //____    //___/ /  
+        / /   || / /       // |  / / //   / / //__  /    / ____    / ___ (    
+       / /    ||/ /       //  | / / //   / / //   \ \   //        //   | |    
+  ((___/ /     |  /       //   |/ / ((___/ / //     \ \ //____/ / //    | |                                                  ")
+print(Fore.CYAN+"                                                   ")
+print(Fore.CYAN+" ")
+print(Fore.CYAN+"    ")
+print(Fore.BLUE+"`   ")
+print(Fore.BLUE+"                                                         ")
+print(Fore.BLUE+"                                        "+Fore.RESET)
 print(Fore.RED + "Code By Zero_BlackShark - 2021/09/19")
 print(" ")
 print("Version 2.0  https://github.com/ZeroBlackShark/DDoS_BlackShark\n") 
